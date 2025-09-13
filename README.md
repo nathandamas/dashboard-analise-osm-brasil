@@ -30,7 +30,7 @@ As principais métricas visualizadas são:
 
 ## Dicionário de Dados
 
-Os dados consolidados utilizados neste dashboard podem ser encontrados em: [...PREENCHER AQUI: Cole o link do Zenodo/Figshare após completar a Fase 3...].
+Os dados consolidados utilizados neste dashboard podem ser encontrados em: https://doi.org/10.5281/zenodo.17114782.
 
 | Coluna | Descrição |
 |---|---|
