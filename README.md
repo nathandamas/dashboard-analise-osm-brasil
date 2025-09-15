@@ -8,7 +8,7 @@ O objetivo principal deste trabalho é desenvolver um dashboard web que permita 
 
 ## Metodologia
 
-A análise é fundamentada em uma abordagem de avaliação intrínseca da qualidade dos dados, inspirada na metodologia de Minghini et al. (2018) [cite_start][cite: 333]. [cite_start]As métricas de qualidade e atividade são agregadas utilizando a Grade Estatística do IBGE como unidade de análise espacial.
+A análise é fundamentada em uma abordagem de avaliação intrínseca da qualidade dos dados, inspirada na metodologia de Minghini et al. (2018). As métricas de qualidade e atividade são agregadas utilizando a Grade Estatística do IBGE como unidade de análise espacial.
 
 As principais métricas visualizadas são:
 * **Densidade de Features:** Número total de elementos mapeados.
