@@ -4,11 +4,11 @@ Protótipo de dashboard interativo desenvolvido como parte de uma pesquisa para 
 
 ## Objetivo do Projeto
 
-[...PREENCHER AQUI: Use o texto do seu resumo para descrever o objetivo do projeto. [cite_start]Fale sobre a importância de analisar a heterogeneidade dos dados OSM e a aplicação dos princípios de Ciência Aberta e FAIR.] [cite: 201, 202, 208]
+O objetivo principal deste trabalho é desenvolver um dashboard web que permita visualizar métricas de completude, qualidade e atualidade dos dados OSM através das células da Grade Estatística, integrando indicadores demográficos e econômicos como preditores de qualidade, possibilitando o planejamento informado de atividades e campanhas de mapeamento, com foco em áreas de interesse ecológico e cultural.
 
 ## Metodologia
 
-A análise é fundamentada em uma abordagem de avaliação intrínseca da qualidade dos dados, inspirada na metodologia de Minghini et al. (2018) [cite_start][cite: 333]. [cite_start]As métricas de qualidade e atividade são agregadas utilizando a Grade Estatística do IBGE como unidade de análise espacial[cite: 201].
+A análise é fundamentada em uma abordagem de avaliação intrínseca da qualidade dos dados, inspirada na metodologia de Minghini et al. (2018) [cite_start][cite: 333]. [cite_start]As métricas de qualidade e atividade são agregadas utilizando a Grade Estatística do IBGE como unidade de análise espacial.
 
 As principais métricas visualizadas são:
 * **Densidade de Features:** Número total de elementos mapeados.
