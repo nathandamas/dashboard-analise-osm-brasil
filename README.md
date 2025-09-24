@@ -45,6 +45,6 @@ Os dados consolidados utilizados neste dashboard podem ser encontrados em: https
 | `idade_em_dias`| Número de dias entre a data atual e a última edição na célula. |
 | `data_ultima_edicao` | Data da edição mais recente registrada na célula. |
 
-## Citação
+## Como citar:
 
 [Damas Antonio, N., Nasr Naim Elias, E., Andrade, F., Miranda Nunes, D., & Camboim, S. (2025). DATASET DO DASHBOARD PARA ANÁLISE ESPAÇO-TEMPORAL DAS EDIÇÕES DO OPENSTREETMAP NO BRASIL [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17114782]
