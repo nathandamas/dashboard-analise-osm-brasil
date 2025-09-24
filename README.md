@@ -2,6 +2,8 @@
 
 Protótipo de dashboard interativo desenvolvido como parte de uma pesquisa para o SOTM Brasil 2025. A ferramenta permite a visualização e análise da distribuição espaço-temporal das contribuições ao OpenStreetMap (OSM) em cidades brasileiras.
 
+Acesse o dashboard por este linik: **https://dashboard-osm-brasil.streamlit.app/**
+
 ## Objetivo do Projeto
 
 O objetivo principal deste trabalho é desenvolver um dashboard web que permita visualizar métricas de completude, qualidade e atualidade dos dados OSM através das células da Grade Estatística, integrando indicadores demográficos e econômicos como preditores de qualidade, possibilitando o planejamento informado de atividades e campanhas de mapeamento, com foco em áreas de interesse ecológico e cultural.
